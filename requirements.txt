@@ -1,0 +1,13 @@
+tqdm
+numpy
+matplotlib
+torch
+torchvision
+torchtext
+torchaudio
+flask
+spacy
+jupyterlab
+pandas
+scikit-image
+sklearn-pandas
